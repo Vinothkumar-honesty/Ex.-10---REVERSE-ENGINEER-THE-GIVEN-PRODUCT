@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 25/11/24
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -37,7 +37,7 @@
 
 ![Screenshot (16)](https://github.com/user-attachments/assets/61efed31-155c-4cae-a3cd-1a25d459df34)
 
-### Name:VINOTHKUMAR
+### Name:VINOTHKUMAR R
 ### Register Number:24900244
 
 ## RESULT:
